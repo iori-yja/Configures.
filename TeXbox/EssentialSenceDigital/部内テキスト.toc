@@ -1,0 +1,39 @@
+\contentsline {part}{第I部\hspace {1zw}the Processor from Transistors and Gates}{3}{part.1}
+\contentsline {chapter}{\numberline {第1章}The Sense of Wonder in Logiclevel}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}ブール代数事始め}{5}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}集合}{5}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}命題}{7}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}情報量の単位}{9}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}bool代数}{9}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}ド・モルガンの定理}{9}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}章末問題}{9}{subsection.1.1.6}
+\contentsline {section}{\numberline {1.2}カルノー図,最小項}{9}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}真理表†}{9}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}カルノー図と最小項}{9}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}章末問題}{9}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}論理ゲート}{9}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}CMOSとTTL回路}{9}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}XORとNOT,NAND,NOR,愉快な仲間}{9}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}組み合わせ回路}{9}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}回路とブール代数式}{9}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}case文,マルチプレクサそしてバス}{9}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}加算器,減算器}{9}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}遅延,双安定,クリティカルパス}{9}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}組み合わせループと無安定動作}{9}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {1.4.6}章末問題}{9}{subsection.1.4.6}
+\contentsline {chapter}{\numberline {第2章}The Practical Logic design engineering}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}順序回路}{11}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}ラッチ,タイミングチャート,フリップフロップ}{11}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}クロック,離散的,連続的}{11}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}シフタ,ローレータ,ALU}{11}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Hardware Describtion Language -ハードウェア記述言語-}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Verilog, wire, Conbination describtions.}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}reg, Behavior describtions.}{11}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}The Simulation Tests.}{11}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}プログラマブル・ロジックデバイス}{11}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Z80,x86,ARM,MIPSと戯れる}{11}{section.2.3}
+\contentsline {part}{第II部\hspace {1zw}素敵な名前をつけてね!}{13}{part.2}
+\contentsline {chapter}{\numberline {第3章}おおいぬのふぐり}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}ペンペン草}{15}{section.3.1}
+\contentsline {chapter}{\numberline {第4章}じゅげむじゅげむ}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}言葉の暴力}{17}{section.4.1}

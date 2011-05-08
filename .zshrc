@@ -17,7 +17,7 @@ case ${UID} in
     SPROMPT="%B%{[31m%}%r is correct? [n,y,a,e]:%{[m%}%b "
     [ -n "${REMOTEHOST}${SSH_CONNECTION}" ] && 
         PROMPT="%{[37m%}${HOST%%.*} ${PROMPT}"
-    ;;
+   ;;
 *)
     PROMPT="%/%{[31m%}%%%{[m%} "
     RPROMPT="%{[34m%}%T%{[m%}"
@@ -25,13 +25,10 @@ case ${UID} in
     SPROMPT="%{[31m%}%r is correct? [n,y,a,e]:%{[m%} "
     [ -n "${REMOTEHOST}${SSH_CONNECTION}" ] && 
         PROMPT="%{[37m%}${HOST%%.*} ${PROMPT}"
-    ;;
 esac
 
 setopt correct
 autoload -U compinit
 compinit
-autoload predict-on
-predict-on
 
 
